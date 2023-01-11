@@ -1,0 +1,30 @@
+{
+  "name": "profile-card",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CarlosSalega/profile-card.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "sass",
+    "javascript",
+    "frontend"
+  ],
+  "author": "Carlos Salega",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CarlosSalega/profile-card/issues"
+  },
+  "homepage": "https://github.com/CarlosSalega/profile-card#readme",
+  "devDependencies": {
+    "prettier": "2.8.2",
+    "sass": "^1.57.1"
+  }
+}
